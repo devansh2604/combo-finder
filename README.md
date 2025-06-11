@@ -26,4 +26,3 @@ Take a quick look at the interface used for interacting with the ComboFinder sys
 
 ---
 
-📁 Want to explore or contribute? Check the code [here](https://github.com/devansh2604/challenge-questions).
